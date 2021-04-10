@@ -16,3 +16,8 @@
 
 • Created a Recommender System that generates a weeklong meal plan for two individuals that adheres to both eating preferences and schedule while meeting daily nutritional requirements  
 • Implementation involves web scraping recipes and user reviews off websites, constructing a Collaborative Filtering through NNM/SVD to generate predicted ratings of the users, Mixed Integer Programming that optimizes the user ratings while satisfying constraints such as schedule and daily nutritional requirements
+
+# Data Visualization Dashboards
+
+
+# Certificates
