@@ -1,4 +1,4 @@
-# Zelong Chen Data Science Portfolio
+# Data Science Portfolio
 
 ## Project 1: BCG Data Science Virtual Internship
 
