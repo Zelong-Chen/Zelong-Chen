@@ -28,4 +28,5 @@ Key Skills: Tableau, Predictive Analysis (Regression Analysis, Decision Trees), 
 # Data Visualization Dashboards
 
 
-# Certificates
+# [Certificates](https://zelong-chen.github.io/Certificates/)
+
