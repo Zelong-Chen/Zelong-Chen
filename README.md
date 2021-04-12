@@ -3,7 +3,9 @@
 • Performed EDA and feature engineering with company’s historical customer and churn data to train predictive models for customer churn.  
 • Analyzed the largest driver of customer churn from validated models and provided business recommendations to reduce churn.
 
-**Key Skills**: Power BI, Predictive Analysis (Classification Models, XGBoost), Business Analytics 
+**Key Skills**: Power BI, Predictive Analysis (Classification Models, XGBoost), Business Analytics
+
+**Currently In Progress**
 
 # Project 2: AdventureWorks
 
@@ -28,7 +30,7 @@
 
 [![name](/images/snapshot_kpmg.PNG)](https://github.com/Zelong-Chen/KPMG-Virtual-Internship)
 
-# Project 4: Disaggregation of Yelp Review Ratings
+# Project 4: Meal Planning Recommender System
 
 • Created a Recommender System that generates a weeklong meal plan for two individuals that adheres to both eating preferences and schedule while meeting daily nutritional requirements  
 • Implementation involves web scraping recipes and user reviews off websites, constructing a Collaborative Filtering through NNM/SVD to generate predicted ratings of the users, Mixed Integer Programming that optimizes the user ratings while satisfying constraints such as schedule and daily nutritional requirements
@@ -48,7 +50,7 @@ Check out my certificates [here!](https://zelong-chen.github.io/Certificates/)
   - Integrated Marketing predictions and Production optimization into a single model that generates an optimal decision based on the predictions made by the Marketing but also account for the uncertainty from the predictions
   - Using techniques such as Sample Average Approximation and Stochastic Decomposition we were able to include the uncertainty from the linear regression predictions and generate an optimal decision that can then be validated
 
-- [Meal Planning Recommender System](https://github.com/Zelong-Chen/Meal-Planning-Recommender-System)
-  - Created a Recommender System that generates a weeklong meal plan for two individuals that adheres to both eating preferences and schedule while meeting daily nutritional requirements
-  - Implementation involves web scraping recipes and user reviews off websites, constructing a Collaborative Filtering through NNM/SVD to generate predicted ratings of the users, Mixed Integer Programming that optimizes the user ratings while satisfying constraints such as schedule and daily nutritional requirements
+- [Disaggregation of Yelp Review Ratings](https://github.com/Zelong-Chen/Disaggregation-of-Yelp-Review-Ratings)
+  - Conducted experiments to dissect the Yelp Overall Ratings into sub-categories of ratings that grant a better insight into the business’s performance then just one overall 5-star rating system
+  - Implementation involves the use of TF-IDF and Non-negative Matrix Factorization to generate sub-categories from the user’s text reviews, Sentiment Intensity to generate the sub-categories’ individual ratings, and Linear Regression of ratings used for validation
 
