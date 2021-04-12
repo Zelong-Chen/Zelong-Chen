@@ -14,6 +14,7 @@
 **Key Skills:** Microsoft SQL Server, SQL, Power BI, Business Analytics  
 
 **Snapshot:**  
+
 [![name](/images/snapshot_adventureworks.png)](https://zelong-chen.github.io/AdventureWorks/)
 
 # Project 3: KPMG Virtual Internship
@@ -31,7 +32,8 @@
 **Key Skills:** Web Scrapping, Recommender System, Optimization, Mixed Integer Programming
 
 # Data Visualization Dashboards
+Check out some of my dashboards [here!]()
 
+# Certificates
 
-# [Certificates](https://zelong-chen.github.io/Certificates/)
-
+Check out my certificates [here!](https://zelong-chen.github.io/Certificates/)
