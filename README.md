@@ -7,7 +7,7 @@
 
 # Project 2: AdventureWorks
 
-• Analyzed the business request from a sales manager from AdventureWorks to generate sales report of the company's internet sales.  
+• Examined the business request from a sales manager from AdventureWorks to generate sales report of the company's internet sales.  
 • Identify the necessary tables from the database on Microsoft SQL Server. Extract and clean data through SQL queries.  
 • Import extracted data into Power BI to create interactive dashboards that effectively communicate business insights that was specified from the sales manager.
 
