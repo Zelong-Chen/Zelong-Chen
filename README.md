@@ -11,7 +11,7 @@
 • Identify the necessary tables from the database on Microsoft SQL Server. Extract and clean data through SQL queries.  
 • Import extracted data into Power BI to create interactive dashboards that effectively communicate business insights that was specified from the sales manager.
 
-Key Skills: Microsoft SQL Server, SQL, Power BI  
+**Key Skills**: Microsoft SQL Server, SQL, Power BI, Business Analytics  
 
 # Project 3: KPMG Virtual Internship
 
