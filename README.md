@@ -37,6 +37,8 @@
 
 **Key Skills:** Python, Web Scrapping, Recommender System, Optimization, Mixed Integer Programming
 
+Link to repository [here!](https://github.com/Zelong-Chen/Meal-Planning-Recommender-System)
+
 # Data Visualization Dashboards
 Check out some of my dashboards [here!]()
 
