@@ -26,7 +26,7 @@
 
 **Snapshot:**  
 
-[![name](/images/snapshot_kpmg.png)](https://github.com/Zelong-Chen/KPMG-Virtual-Internship)
+[![name](/images/snapshot_kpmg.PNG)](https://github.com/Zelong-Chen/KPMG-Virtual-Internship)
 
 # Project 4: Disaggregation of Yelp Review Ratings
 
