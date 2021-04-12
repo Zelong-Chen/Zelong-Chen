@@ -41,3 +41,14 @@ Check out some of my dashboards [here!]()
 # Certificates
 
 Check out my certificates [here!](https://zelong-chen.github.io/Certificates/)
+
+# Older Project Repositories
+
+- [Market Production Integrated Optimization](https://github.com/Zelong-Chen/Marketing-Production-Integrated-Optimization)
+  - Integrated Marketing predictions and Production optimization into a single model that generates an optimal decision based on the predictions made by the Marketing but also account for the uncertainty from the predictions
+  - Using techniques such as Sample Average Approximation and Stochastic Decomposition we were able to include the uncertainty from the linear regression predictions and generate an optimal decision that can then be validated
+
+- [Meal Planning Recommender System](https://github.com/Zelong-Chen/Meal-Planning-Recommender-System)
+  - Created a Recommender System that generates a weeklong meal plan for two individuals that adheres to both eating preferences and schedule while meeting daily nutritional requirements
+  - Implementation involves web scraping recipes and user reviews off websites, constructing a Collaborative Filtering through NNM/SVD to generate predicted ratings of the users, Mixed Integer Programming that optimizes the user ratings while satisfying constraints such as schedule and daily nutritional requirements
+
