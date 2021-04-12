@@ -24,6 +24,10 @@
 
 **Key Skills:** Tableau, Predictive Analysis (Regression Analysis, Decision Trees), Business Analytics
 
+**Snapshot:**  
+
+[![name](/images/snapshot_adventureworks.png)](https://github.com/Zelong-Chen/KPMG-Virtual-Internship)
+
 # Project 4: Disaggregation of Yelp Review Ratings
 
 • Created a Recommender System that generates a weeklong meal plan for two individuals that adheres to both eating preferences and schedule while meeting daily nutritional requirements  
