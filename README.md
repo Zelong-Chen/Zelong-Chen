@@ -3,7 +3,7 @@
 • Performed EDA and feature engineering with company’s historical customer and churn data to train predictive models for customer churn.  
 • Analyzed the largest driver of customer churn from validated models and provided business recommendations to reduce churn.
 
-Key Skills: Power BI, Predictive Analysis (Classification Models, XGBoost), Business Analytics 
+*Key Skills*: Power BI, Predictive Analysis (Classification Models, XGBoost), Business Analytics 
 
 # Project 2: AdventureWorks
 
