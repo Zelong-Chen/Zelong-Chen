@@ -1,3 +1,6 @@
+# Data Science Work Samples
+
+
 # Project 1: BCG Data Science Virtual Internship
 
 • Performed EDA and feature engineering with company’s historical customer and churn data to train predictive models for customer churn.  
