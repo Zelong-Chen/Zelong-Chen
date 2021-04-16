@@ -20,7 +20,7 @@
 
 **Snapshot:**  
 
-[![name](/images/snapshot_adventureworks.png)](https://zelong-chen.github.io/AdventureWorks/)
+[![Click Here](/images/snapshot_adventureworks.png)](https://zelong-chen.github.io/AdventureWorks/)
 
 # Project 3: KPMG Virtual Internship
 
